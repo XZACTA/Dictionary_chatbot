@@ -1,3 +1,2 @@
-This is coding test for internship of NXZ Group 
-using Line message api , DictionaryApi.
+This is coding test using Line message api , DictionaryApi
 create by Teeraphat sirirak
