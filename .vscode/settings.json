@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/7462fa26-e2c0-436e-bd84-1ee2903a97c1/resourceGroups/Oak/providers/Microsoft.Web/sites/oak-chatbot",
+    "appService.deploySubpath": "."
+}
