@@ -66,8 +66,9 @@ const handleEvent = async (event) =>{
     }
 }
 
-app.listen(4000,() => {
-    console.log('Server listening on 4000')
+const PORT = process.env.PORT || 3000; 
+app.listen(PORT,() => {
+    console.log('Server listening on '+ PORT)
 });
 
 module.exports = app;
