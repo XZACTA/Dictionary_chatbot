@@ -70,5 +70,5 @@ app.listen(4000,() => {
     console.log('Server listening on 4000')
 });
 
-
+module.exports = app;
 
