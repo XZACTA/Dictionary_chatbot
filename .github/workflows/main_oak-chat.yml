@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'oak-chat'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_223A47A11D7B40AE86802112D48D1A14 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_811660DBDBBC4065BC1EF0848D39D8EA }}
           package: .
